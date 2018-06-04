@@ -20,3 +20,7 @@ Results:
 • The results to the operations will be dispayed on the Java IDE in JSON format.  
 • You can also view the final result of your program in MongoDB by connecting to port 27017 on MongoDB compass.  
 
+A snapshot of how the database looks on MongoDB Compass:   
+
+![Optional Text](../master/JAVA.png)
+
